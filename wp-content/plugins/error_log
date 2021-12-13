@@ -1,2 +1,0 @@
-[26-Nov-2020 13:51:00 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/jardindu/public_html/wp-content/plugins/hello.php on line 69
-[29-Apr-2021 11:02:46 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/jardindu/public_html/wp-content/plugins/hello.php on line 69
